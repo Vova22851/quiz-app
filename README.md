@@ -1,11 +1,16 @@
-# Використання в майбутніх проєктах
-Щоб виконати цей шаблон у новому проєкті, виконайте у командному рядочку наступний код:
+# Використання шаблону в майбутніх проєктах
+Щоб виконати цей шаблон у новому проєкті, виконайте у командному рядочкові наступний код:
 ```bash
-git clone https://githum.com/Vova228_51/react-template.git new-project
-
+git clone https://github.com/KsiuTretyakova/react-template.git new-project
+```
+```bash
 cd new-project
-rm -rf .git # Видаляємо старий git-зв'язок
+```
+```bash
+rm -rf .git # Видаляємо старий Git-зв'язок
+```
+```bash
 git init
 ```
-# `new-project`- Назва теки нового проєкту
-# `rm` - працюе в Powershell(якщо не спрацює, використати `del`)
+* `new-project` - назва теки нового проєкту
+* `rm` - працює в PowerShell (якщо не спрацює, використати `del`)
